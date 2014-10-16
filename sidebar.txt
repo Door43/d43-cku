@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cku:home|Door43 (cku)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cku|d43-cku repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cku/archive/master.zip|d43-cku.zip]]
+
+**Recent Changes**
+{{changes>ns = cku}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cku|Ethnologue data]]
+
